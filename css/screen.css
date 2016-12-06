@@ -1,0 +1,48 @@
+@media screen and (max-width: 1024px){
+	#top-navigation {
+		width: 100%;
+	}
+	#content-wrapper {
+		width: 96%;
+		margin-left: 2%;
+		margin-right: 2%;
+	}
+	#content-wrapper ul li {
+	}
+}
+@media screen and (max-width: 768px){
+
+
+}
+@media screen and (max-width: 640px){
+	#signup {
+		width: 100%;
+	}
+	#signup-close {
+		left: 88%;
+	}
+
+
+}
+@media screen and (max-width: 400px){
+	#search-wrapper {
+		width: 160px;
+	}
+	#login-input {
+		width: 310px;
+	}
+	#login-text-top {
+		width: 300px;
+	}
+
+}	
+@media screen and (max-width: 320px){
+	header {
+		width: 320px;
+	}
+	#content-wrapper {
+		width: 316px;
+		margin-left: 2px;
+		margin-right: 2px;
+	}
+}
